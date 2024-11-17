@@ -1,5 +1,5 @@
-## Titre ##
-#Italique#
+**Titre**
+*Italique*
 ```js
 const test = "test"
 ```
