@@ -1,5 +1,2 @@
-**Titre**
-*Italique*
-```js
-const test = "test"
-```
+**Hello, world**
+*Welcome to my GitHub profile*
